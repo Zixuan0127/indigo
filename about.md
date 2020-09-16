@@ -4,43 +4,31 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am a master student in Environmental Engineering Depertment in University
+at Buffalo. I got my bachelor degree from Shihezi University, Xinjiang,China.
+My research focuses on fluid in the porous media, fate and transport in groundwater, 
+and groudnwater modeling. I am going to graduate 2021, and pursue a PhD program starting 
+at 2021 fall.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Out of my research, I loves snowboarding, surfing, and hiking. So, if I'm not in 
+office, you can find me at mountain, trails, or beach.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>R (Spatial Statistical Analysis)</li>
+	<li>MATLAB (Multiple Dimensions Modeling)</li>
+	<li>LATEX</li>
+	<li>MiniTab</li>
+	<li>Auto-CAD</li>
+	<li>ArcGIS</li>
+	<li>Surfer</li>
+	<li>Git</li>
+	<li>Visual AEM (2D groundwater modeling)</li>
+	<li>HEC-RAS (Water Quality Modeling)</li>
+	<li>Groundwater Vista (MODFLOW)</li>
+	<li>SWMM (Storming Water Management)</li>
 </ul>
 
-<h2>Projects</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
