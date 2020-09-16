@@ -20,7 +20,10 @@ This project used a large number of data from plants to evaluate a poplar phytor
 ---
 
 Data of Trees:
+![Screenshot](https://raw.githubusercontent.com/Zixuan0127/indigo/gh-pages/assets/images/Project_1_1.png)
 
+
+![Screenshot](https://raw.githubusercontent.com/Zixuan0127/indigo/gh-pages/assets/images/Project_1_2.png)
 
 ---
 
