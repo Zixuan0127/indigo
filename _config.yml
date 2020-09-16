@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Zixuan Chen
+bio: Grondwater Modeler
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A research focuses on groundwater modeling and ecohydrology.
 
 # if it's an external image, update below for true
 # better with square images
@@ -41,7 +41,7 @@ twitter: mytwitter
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: Zixuan0127
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -54,11 +54,11 @@ email: myemail@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Zixuan Chen
+    bio: Grondwater Modeler
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
+    twitter:/
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
