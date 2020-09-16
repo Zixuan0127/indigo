@@ -3,17 +3,17 @@ title: "Hydrologic Evaluation of a Poplar Phytoremediation Barrier"
 layout: post
 date: 2020-08-14
 tag: Phytoremediation
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+image: https://github.com/Zixuan0127/indigo/blob/gh-pages/assets/images/Project_1_title.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "This project used a large number of data from plants to evaluate a poplar phytoremediation barrier."
 category: project
 author: zixuanchen
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+
 
 This project used a large number of data from plants to evaluate a poplar phytoremediation barrier.
 
