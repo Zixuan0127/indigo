@@ -3,7 +3,7 @@ title: "Hydrologic Evaluation of a Poplar Phytoremediation Barrier"
 layout: post
 date: 2020-08-14
 tag: Phytoremediation
-image: https://github.com/Zixuan0127/indigo/blob/gh-pages/assets/images/Project_1_title.png
+image: https://raw.githubusercontent.com/Zixuan0127/indigo/gh-pages/assets/images/Project_1_title.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
